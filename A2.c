@@ -1,3 +1,4 @@
+//Write a C program to demonstrate indexing and associated operations.
 #include <stdio.h>
 #include <stdlib.h>
 
